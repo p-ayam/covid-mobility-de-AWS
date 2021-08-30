@@ -1,6 +1,6 @@
 ## Story of a Data Dashboard: <br> Google Users' Mobility in Germany During the Covid-19 Pandemic
 
-<img src="https://github.com/p-ayam/images/blob/main/Covid%20Dashboard.jpg" alt="alt text" width="850" height="whatever">
+<img src="https://github.com/p-ayam/images/blob/main/Covid%20Dashboard.jpg" alt="alt text" width="800" height="whatever">
 
 In 2020, Google released [Community Mobility Reports](https://support.google.com/covid19-mobility/answer/9824897?hl=en&ref_topic=9822927)
 which is an [aggregated, anonymized dataset](https://www.youtube.com/watch?v=FfAdemDkLsc&feature=youtu.be&ab_channel=Google) from the location of its users who had turned their “Location History” setting on. The dataset reveals the changes in mobility trends during the Covid-19 pandemic across six categories of places, namely
