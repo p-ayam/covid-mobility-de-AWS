@@ -1,4 +1,4 @@
-## Story of a [Data Dashboard](http://ec2-18-159-45-234.eu-central-1.compute.amazonaws.com:8050/): <br> Google Users' Mobility in Germany During the Covid-19 Pandemic
+## Story of a Data Dashboard: <br> Google Users' Mobility in Germany During the Covid-19 Pandemic
 
 
 In 2020, Google released [Community Mobility Reports](https://support.google.com/covid19-mobility/answer/9824897?hl=en&ref_topic=9822927)
